@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Please use **npm install** to load the missing packages.
+
+### `npm install`
+
 In the project directory, you can run:
 
 ### `npm start`
